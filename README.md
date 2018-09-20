@@ -11,7 +11,9 @@ These instructions will get you a copy of the [Saleor](https://github.com/mirume
 You need to install the following to use this vagrant setup
 
 [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+
 [Vagrant](https://www.vagrantup.com/downloads.html)
+
 [Nodejs version 10+](https://nodejs.org/en/)
 
 ### Installing
