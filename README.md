@@ -47,7 +47,9 @@ Now you are ready to launch saleor inside your browser at (http://saleor.vm:8000
 You can login to saleor dashboard at (http://saleor.vm:8000/dashboard/)
 
 username: admin
+
 password: admin
+
 email: admin@example.com
 
 
